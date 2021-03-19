@@ -1,0 +1,1 @@
+from budgetplan.assets import AssetList
