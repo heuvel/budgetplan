@@ -1,0 +1,3 @@
+# `Assets`
+
+::: budgetplan.assets.AssetList
